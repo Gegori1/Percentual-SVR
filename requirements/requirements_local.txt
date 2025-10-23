@@ -1,0 +1,17 @@
+boto3
+google-cloud-storage
+google-cloud-compute
+google-cloud-monitoring
+numpy
+pandas
+scikit-learn
+optuna
+pyyaml
+jsonlines
+cvxpy
+mosek
+matplotlib
+plotly-express
+nbformat
+jsonlines
+xgboost
